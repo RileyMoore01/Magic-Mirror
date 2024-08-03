@@ -10,3 +10,6 @@ sudo apt install python3 python3-pip -y
 python3 --version
 ```
 
+**Libraries**
+***Magic Mirror***
+
