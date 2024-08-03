@@ -12,4 +12,6 @@ python3 --version
 
 **Libraries**
 ***Magic Mirror***
-
+```
+sudo apt-get install python3-tk
+```
