@@ -1,6 +1,6 @@
 # Magic Mirror
 ## Installation
-** Python **
+**Python**
 > sudo apt update
 
 > sudo apt upgrade -y
