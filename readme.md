@@ -10,7 +10,7 @@ sudo apt install python3 python3-pip -y
 python3 --version
 ```
 
-**Libraries**
+**Libraries**<br />
 ***Magic Mirror***
 ```
 sudo apt-get install python3-tk
