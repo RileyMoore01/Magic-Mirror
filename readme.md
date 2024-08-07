@@ -13,7 +13,7 @@ python3 --version
 **Libraries**<br />
 ***Magic Mirror***
 
-1.)download node.js
+1.) Download node.js
 ```
 sudo apt-get install -y curl
 ```
