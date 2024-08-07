@@ -43,7 +43,7 @@ git clone https://github.com/MagicMirrorOrg/MagicMirror
 5.) Install the application
 ``` npm run install-mm```
 
-6.) copy the config file
+6.) Copy the config file
 ```cp config/config.js.sample config/config.js```
 
 7.) Start the application
