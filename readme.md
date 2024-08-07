@@ -12,6 +12,40 @@ python3 --version
 
 **Libraries**<br />
 ***Magic Mirror***
+
+1.)download node.js
 ```
-sudo apt-get install python3-tk
+sudo apt-get install -y curl
 ```
+```
+curl -fsSL https://deb.nodesource.com/setup_22.x -o nodesource_setup.sh
+```
+```
+sudo -E bash nodesource_setupsh
+```
+```
+sudo apt-get install -y nodejs
+```
+```
+node -v
+```
+
+2.) Check if git is installed by run 'git'
+
+3.) Clone the magic mirror repository
+```
+git clone https://github.com/MagicMirrorOrg/MagicMirror
+```
+
+4.) Enter the MagicMirror folder
+```cd MagicMirror```
+
+5.) Install the application
+``` npm run install-mm```
+
+6.) copy the config file
+```cp config/config.js.sample config/config.js```
+
+7.) Start the application
+```npm run start```
+```npm run server```
