@@ -49,3 +49,7 @@ git clone https://github.com/MagicMirrorOrg/MagicMirror
 7.) Start the application
 ```npm run start```
 ```npm run server```
+
+
+## Modules
+1.) <a href='https://github.com/lavolp3/MMM-AVStock'>Stock Prices</a>
