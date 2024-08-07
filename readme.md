@@ -53,3 +53,4 @@ git clone https://github.com/MagicMirrorOrg/MagicMirror
 
 ## Modules
 1.) <a href='https://github.com/lavolp3/MMM-AVStock'>Stock Prices</a>
+2.) <a href='https://github.com/skuethe/MMM-Spotify'>Spotify</a>
