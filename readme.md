@@ -77,10 +77,10 @@ Capabilites:
 <details>
   <summary>Hardware</summary>
 
-  1.) Raspberry Pi 4B (4GB)
-  2.) Sim card for os and software
-  3.) Monitor to display smart mirror 
-  4.) 2 Way film or glass
-  5.) Wood for mirror frame
-  6.) (Optional) Camera for facial recognition 
+  - Raspberry Pi 4B (4GB)
+  -  Sim card for os and software
+  -  Monitor to display smart mirror
+  -  Way film or glass
+  - Wood for mirror frame
+  - (Optional) Camera for facial recognition 
 </details>
