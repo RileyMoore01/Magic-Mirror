@@ -2,7 +2,14 @@
 
 My very own version of a magic (smart) mirror. <br />
 Capabilites:
-- Controlling Spotify
+- Controlling your Spotify
+- Viewing your favorite stock prices, changes, and profit since your purchase price
+- Full weather forecast including tempatures for the next few days, wind, sun rise/set, and 'feels like tempature'
+- Calendar with upcoming events
+- Clock counting down to the second with date, day, and year
+- Facial Recognition for authorized users
+- New york times headline pop ups
+- New dad joke every minute
 
 
 <details>
