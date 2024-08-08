@@ -61,3 +61,14 @@
   4.) <a href='https://github.com/EbenKouao/MMM-SmartTouch'>Smart Touch</a><br/>
 
 </details>
+
+<details>
+  <summary>Hardware</summary>
+
+  1.) Raspberry Pi 4B (4GB)
+  2.) Sim card for os and software
+  3.) Monitor to display smart mirror 
+  4.) 2 Way film or glass
+  5.) Wood for mirror frame
+  6.) (Optional) Camera for facial recognition 
+</details>
