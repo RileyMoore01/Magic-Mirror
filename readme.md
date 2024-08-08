@@ -13,7 +13,7 @@ Capabilites:
 
 
 <details>
-  <summary>Installation</summary>
+  <summary><strong>Installation</strong></summary>
   
   **Python**
   ```
@@ -75,7 +75,7 @@ Capabilites:
 </details>
 
 <details>
-  <summary>Hardware</summary>
+  <summary><strong>Hardware</strong></summary>
 
   - Raspberry Pi 4B (4GB)
   -  Sim card for os and software
