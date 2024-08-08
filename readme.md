@@ -1,5 +1,10 @@
 # Magic Mirror
 
+My very own version of a magic (smart) mirror. <br />
+Capabilites:
+- Controlling Spotify
+
+
 <details>
   <summary>Installation</summary>
   
