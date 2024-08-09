@@ -84,3 +84,8 @@ Capabilites:
   - Wood for mirror frame
   - (Optional) Camera for facial recognition 
 </details>
+
+<details>
+  <summary><strong>References</strong>strong></summary>
+  - <a href='https://www.youtube.com/watch?v=A3TRxFzt7SA'>Youtube ref with product links</a>
+</details>
