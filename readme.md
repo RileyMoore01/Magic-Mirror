@@ -79,7 +79,7 @@ Capabilites:
 
   -  Raspberry Pi 4B (4GB)
   -  Sim card for os and software
-  -  Monitor to display smart mirror
+  -  <a href='https://www.amazon.com/Akntzcs-Touchscreen-1920x1080P-Secondary-Kickstand/dp/B0C4TCHK1S/ref=sr_1_13?sr=8-13'>Monitor to display smart mirror</a>
   -  <a href='https://www.amazon.com/0-12-Acrylic-See-Through-Mirror-Transparent/dp/B01CZ35YJ6/ref=sr_1_2?sr=8-2'>Acrylic sheet</a>
   -  Wood for mirror frame
   - (Optional) Camera for facial recognition 
