@@ -77,11 +77,11 @@ Capabilites:
 <details>
   <summary><strong>Hardware</strong></summary>
 
-  - Raspberry Pi 4B (4GB)
+  -  Raspberry Pi 4B (4GB)
   -  Sim card for os and software
   -  Monitor to display smart mirror
-  -  Way film or glass
-  - Wood for mirror frame
+  -  <a href='https://www.amazon.com/0-12-Acrylic-See-Through-Mirror-Transparent/dp/B01CZ35YJ6/ref=sr_1_2?sr=8-2'>Acrylic sheet</a>
+  -  Wood for mirror frame
   - (Optional) Camera for facial recognition 
 </details>
 
