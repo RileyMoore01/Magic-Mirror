@@ -11,7 +11,6 @@ Capabilites:
 - New york times headline pop ups
 - New dad joke every minute
 
-
 <details>
   <summary><strong>Installation</strong></summary>
   
